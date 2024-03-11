@@ -12,6 +12,6 @@
 
 <div>
 <a href="https://github.com/RicardoZanandrea">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoZanandrea&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?RicardoZanandrea=anuraghazra&theme=dark&show_icons=true)"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoZanandrea&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="=https://github-readme-stats.vercel.app/api?username=RicardoZanandrea&theme=dark&show_icons=true/>
 
