@@ -1,7 +1,12 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Ricardo Zanandrea, I'm a Computer Science Academic, I mostly study backend development. I love to network and to exchange knowledge!
+## My name is Ricardo Zanandrea, I'm a Computer Science Academic, I mostly study cybersecurity and back-end development. I love to network and to exchange knowledge!
 ## Currently learning:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash, cpp, py, linux" />
+  </a>
+</p>
 
 <div>
 <a href="https://github.com/RicardoZanandrea">
